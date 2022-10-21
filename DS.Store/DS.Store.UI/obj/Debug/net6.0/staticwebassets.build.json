@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BU/H+dDMM1Rw5jm5lemEUkw6LNrY0buPIudm31Purfk=",
+  "Hash": "GoT3Rx5aIrRgKBpiLondvexAYEvaZ1d8GRPCLO7pNrI=",
   "Source": "DS.Store.UI",
   "BasePath": "_content/DS.Store.UI",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DS.Store.UI.styles.css",
-      "SourceId": "DS.Store.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/DS.Store.UI",
-      "RelativePath": "DS.Store.UI.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DS.Store.UI.styles.css"
-    },
-    {
-      "Identity": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DS.Store.UI.bundle.scp.css",
-      "SourceId": "DS.Store.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/DS.Store.UI",
-      "RelativePath": "DS.Store.UI.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DS.Store.UI.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Dev\\C# .NET\\Web-Application\\DS.Store\\DS.Store.UI\\wwwroot\\css\\site.css",
       "SourceId": "DS.Store.UI",
